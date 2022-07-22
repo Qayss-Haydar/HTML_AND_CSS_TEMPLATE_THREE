@@ -1444,7 +1444,7 @@ a {
 .stats {
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
-    background-image: url(/imgs/stats.jpg);
+    background-image: url(../imgs/stats.jpg);
     background-size: cover;
     min-height: 300px;
     position: relative;
